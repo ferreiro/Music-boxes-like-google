@@ -21,6 +21,5 @@ You can use my code under the MIT license. It'd be awesome know if you're using 
 
 Cheers!. Jorge.
 
-> Website: <a href="http://www.jgferreiro.com">jgferreiro.com</a> <br />
-> Email: me@jgferreiro.com<br />
 > Twitter: <a href="http://www.twitter.com/jgferreiro">@jgferreiro</a><br />
+> Email: <dividirporcero@gmail.com>
