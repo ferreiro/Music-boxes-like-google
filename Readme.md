@@ -13,11 +13,9 @@ I really love the result. Hope you like it!
 - You can add more songs and boxes with different sizes quickly (just changing some tags on the design, very fast!).
 - I added some cool animations using CSS3 when you mouse over on the images.
 
-### Your feedback
-
-If you have some ideas and feedback, please, open an issue or write me an email: <dividirporcero@gmail.com>. Would be awesome to hear your ideas ;).
-
-You can use my code under the MIT license. It'd be awesome know if you're using my code. Tweet me at @jgferreiro or send me an email.
+### Feedback and future improvements.
+ 
+You can use my code under MIT license. If you have some ideas and feedback, please, open an issue or write me an email: dividirporcero@gmail.com. Would be awesome to hear your ideas ;).
 
 Cheers!. Jorge.
 
